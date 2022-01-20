@@ -17,5 +17,7 @@
         android:layout_width="250dp"
         android:layout_height="70dp"
         android:layout_marginTop="20dp"
-        android:text="MainActivity へ遷移" />
+        android:text="MainActivity へ遷移"
+        android:layout_gravity="center"
+        android:textAllCaps="false"/>
 </LinearLayout>

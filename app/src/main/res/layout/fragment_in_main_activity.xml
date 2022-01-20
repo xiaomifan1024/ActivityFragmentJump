@@ -15,8 +15,10 @@
 
     <Button
         android:id="@+id/toSecondFragment"
+        android:layout_gravity="center"
         android:layout_width="200dp"
         android:layout_height="70dp"
         android:layout_marginTop="20dp"
+        android:textAllCaps="false"
         android:text="second Fragement へ遷移" />
 </LinearLayout>
