@@ -22,7 +22,7 @@
         android:layout_gravity="center"
         android:layout_width="200dp"
         android:layout_height="70dp"
-        android:text="Notifications fragementへ遷移"
+        android:text="subscribe通知"
         android:textAllCaps="false"/>
     <Button
         android:id="@+id/toTestActivity"
